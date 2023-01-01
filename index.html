@@ -4,8 +4,50 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Encriptador de Texto | Challenge</title>
+	<link rel="icon" type="image/png" sizes="32x32" href="./img/icono.png">
+	<link rel="stylesheet" href="./css/style.css">
 </head>
 <body>
+	
+	<header>
+		<img class="logo" src="./img/Logo.png" width="120" height="48">
+	</header>
+		<div class="contenido">
+		<div class="caja-ingreso">
+			<input id="color-mode" class="btn btn-mode" type="submit" value="Cambiar Tema">	
+			<textarea id="txt-entrada" placeholder="Escribe un texto aquí..."></textarea>
+			
+			<div class="info">
+				<img src="./img/exclamation-circle.png" width="16" height="16">
+				<span> Solo letras minúsculas y sin acentos</span>
+			</div>
+			<div class="buttons">
+				<input id="encript" class="btn btn-encripta" type="submit" value="Encriptar">
+				<input id="desencript" class="btn btn-desencripta" type="submit" value="Desencriptar">
+			</div>	
+			
+		</div>
+		<div class="caja-resultado">
+			<img id="imagen-result" class="imagen" src="./img/Muñeco.png">
+			<h2 id="mensaje-vacio">Primero debes ingresar un texto ! ;) </h2>
+			
+			<textarea id="vacio"></textarea> <br>
+			<input id="btn-copiar" class="btn btn-desencripta btn-copy" type="submit" value="Copiar">
+			
+		</div>
+	</div>
 
+	
+    <footer>
+    	<ul>
+    		<li>Copyright &copy; 2022 | Todos los derechos Reservados.</li> 
+    		<li>IrisArias</li> 
+    		<li><a href="https://www.linkedin.com/in/iris628/"><img width="24" src="./img/linkedin-icon.png"></a></li>
+    	</ul>
+        
+    </footer>
+
+
+	<script src="./js/main.js"></script>
 </body>
 </html>
