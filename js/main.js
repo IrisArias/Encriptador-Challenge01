@@ -52,15 +52,8 @@ function ocultar(){
 
 function copiar(){
     let copiado = navigator.clipboard.writeText(vacio.innerHTML);
-    return copiado;
-  
+    return copiado; 
 }
-
-
-
-
-
-
 
 /***CAMBIAR TEMA COLOR*/
 const colorMode=document.querySelector("#color-mode");
