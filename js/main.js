@@ -44,9 +44,9 @@ function desencripta(){
 	vacio.innerText=nuevoSi;
 }
 function ocultar(){
-	document.getElementById("imagen-result").style.visibility = "hidden";
-	document.getElementById("mensaje-vacio").style.visibility = "hidden";
-	document.getElementById("vacio").style.visibility = "visible";
+	document.getElementById("imagen-result").style.display = "none";
+	document.getElementById("mensaje-vacio").style.display = "none";
+	document.getElementById("vacio").style.visibility  = "visible";
 	document.getElementById("btn-copiar").style.visibility = "visible";
 }
 
