@@ -20,3 +20,13 @@ La página debe tener campos para inserción del texto que será encriptado o de
 El resultado debe ser mostrado en la pantalla.
 Extras:
 - Un botón que copie el texto encriptado/desencriptado para la sección de transferencia, o sea que tenga la misma funcionalidad del ctrl+C o de la opción "copiar" del menú de las aplicaciones.
+## Page
+<a href="https://irisarias.github.io/Encriptador-Challenge01/"><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white"></a>
+## Contactos
+<a href="https://www.linkedin.com/in/iris628/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+## Expresiones de Gratitud :gift:
+- Marcame una estrella :star2:
+- Comenta a otros sobre este proyecto
+- Invita a un café coffee .btc: heart bc1q79el02e37zn7erp9dqyrlv4vzgdwv0jkuacg4y
+
